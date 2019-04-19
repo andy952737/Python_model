@@ -1,6 +1,6 @@
 # use python Stock
 
-# link
+## link
 Number | Title | Url
 -------|-------|-------
 1 | python Package | https://pypi.org/
@@ -8,4 +8,8 @@ Number | Title | Url
 3 | python | https://www.python.org/
 4 | python-basis-code | http://www.runoob.com/python3/python3-tutorial.html
 
-# keyword
+## python-note
+- 檔案處理,建立
+- 運算,分析
+- GPIO-IOT應用
+- Database-Link

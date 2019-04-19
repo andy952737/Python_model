@@ -7,6 +7,7 @@ Number | Title | Url
 2 | learnpython | https://www.learnpython.org/ 
 3 | python | https://www.python.org/
 4 | python-basis-code | http://www.runoob.com/python3/python3-tutorial.html
+5 | python-pi-GPIO | http://cheng-min-i-taiwan.blogspot.com/2013/04/raspberry-pi-python.html
 
 ## python-note
 - 檔案處理,建立

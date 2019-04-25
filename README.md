@@ -13,4 +13,15 @@ Number | Title | Url
 - 檔案處理,建立
 - 運算,分析
 - GPIO-IOT應用
-- Database-Link
+- Database-Link 
+- 深度學習
+- 機器學習
+
+## python-package-import
+- sys 
+- random
+- os
+- argv
+- requests
+- pg
+- pandas

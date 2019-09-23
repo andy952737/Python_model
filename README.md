@@ -26,7 +26,7 @@ Number | Title | Url
 - pg
 - pandas
 - math
-- from-import
+- sample_module
 
 ## python-code
 - data-type

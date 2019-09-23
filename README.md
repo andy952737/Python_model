@@ -12,7 +12,7 @@ Number | Title | Url
 ## python-note
 - 檔案處理,建立
 - 運算,分析
-- GPIO-IOT應用 
+- GPIO應用 
 - Database-Link 
 - 深度學習
 - 機器學習

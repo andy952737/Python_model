@@ -8,3 +8,4 @@ f = open('data/test.txt','r')
 print(f.read())
 
 #f.write('IT人')
+ 

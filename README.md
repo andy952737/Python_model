@@ -32,3 +32,7 @@ Number | Title | Url
 - data-type
 - while
 - for# Python_model
+
+## 演算法練習
+- 二進位搜尋
+- 陣列連結串列

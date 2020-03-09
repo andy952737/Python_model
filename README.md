@@ -17,6 +17,10 @@ Number | Title | Url
 - 深度學習
 - 機器學習
 
+## python install
+- ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+- brew install python3 
+
 ## python-package-import
 - sys 
 - random
@@ -37,3 +41,8 @@ Number | Title | Url
 ## 演算法練習
 - 二進位搜尋
 - 陣列連結串列
+
+## jupyter install
+> jupyter notebook
+- pip install jupyter 
+- pip3 install jupyter 

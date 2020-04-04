@@ -1,4 +1,4 @@
-# use python Stock
+# use python Stock Go
 
 ## link
 Number | Title | Url

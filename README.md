@@ -10,12 +10,13 @@ Number | Title | Url
 5 | python-pi-GPIO | http://cheng-min-i-taiwan.blogspot.com/2013/04/raspberry-pi-python.html
 
 ## python-note
+- python基礎語法
 - 檔案處理,建立
 - 運算,分析
 - GPIO應用 
 - Database-Link 
-- 深度學習
 - 機器學習
+- 深度學習
 
 ## python install
 - ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
